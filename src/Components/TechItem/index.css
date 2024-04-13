@@ -1,0 +1,18 @@
+.Itemcontainer {
+  display: flex;
+  flex-direction: row;
+  height: 100px;
+  width: 150px;
+  align-items: center;
+  background-color: #f1f5f9;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.Paragraph {
+  font-size: 10px;
+  margin-right: 10px;
+}
+.Imgelement {
+  height: 75px;
+  width: 100px;
+}

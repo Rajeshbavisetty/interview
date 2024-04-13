@@ -1,0 +1,66 @@
+.Headercontainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: #f1f5f9;
+}
+.Imgelement {
+  height: 75px;
+  width: 100px;
+}
+.Button {
+  border-width: 0px;
+  background-color: transparent;
+}
+.TrendItemContainer {
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  padding: 10px;
+  flex-wrap: wrap;
+}
+.Itemcontainer {
+  display: flex;
+  flex-direction: row;
+  height: 100px;
+  width: 150px;
+  align-items: center;
+  background-color: #f1f5f9;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.Paragraph {
+  font-size: 10px;
+  margin-right: 10px;
+}
+.Maincontainer {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100vw;
+  margin: 0px;
+}
+.FailureItem {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.ButtonRetry {
+  height: 50px;
+  width: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+  background-color: green;
+}
+.ImgElement {
+  height: 45vh;
+  width: 30vw;
+}
+.courseContainer {
+  display: flex;
+  flex-direction: column;
+}
